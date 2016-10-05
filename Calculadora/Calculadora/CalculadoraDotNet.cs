@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculadora
 {
-    class CalculadoraDotNet
+    public class CalculadoraDotNet
     {
         static void Main(string[] args)
         {
